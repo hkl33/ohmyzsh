@@ -1,2 +1,3 @@
 # github
 13.234.176.102 github.com
+13.107.21.200 bing.com
